@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RicardoRamautar.github.io/al-folio/sitemap.xml
+Sitemap: https://RicardoRamautar.github.io/sitemap.xml
